@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer and Graphic Designer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">drishu.sh@gmail.com
+<p align="left">drishu.sah@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
