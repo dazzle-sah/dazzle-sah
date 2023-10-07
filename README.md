@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js, Tailwind CSS**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/13JUetOKbgFSqzPPQDw_vVFWqhK1Sfulp](https://drive.google.com/drive/u/1/folders/13JUetOKbgFSqzPPQDw_vVFWqhK1Sfulp)
+- 📄 Know about my experiences [through my Resume](https://drive.google.com/file/d/1COvFvCWp-S_N-umw1UwFOenEiPPg9GhL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
